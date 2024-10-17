@@ -1,0 +1,7 @@
+{
+  "name": "BateryStatus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
